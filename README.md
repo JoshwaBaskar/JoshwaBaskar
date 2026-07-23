@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:050816&height=220&section=header&text=Hi%20There,%20I'm%20Joshwa%20B%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:FFD700,100:B8860B&height=220&section=header&text=Hi%20There,%20I'm%20Joshwa%20B%20👋&fontSize=42&fontColor=050816&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Final-Year+AIML+Student;Full-Stack+Developer;Building+AI-Powered+Products;Open+to+SDE+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Final-Year+AIML+Student;Full-Stack+Developer;Building+AI-Powered+Products;Open+to+SDE+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joshwa-b-322967291/"><img src="https://img.shields.io/badge/LinkedIn-B8860B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:joshwavsb@gmail.com"><img src="https://img.shields.io/badge/Email-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-B8860B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 - 💻 Actively preparing for **Software Developer** roles
 - 🛠️ Building end-to-end AI/ML products — from model to deployed full-stack app
 - 🏆 Served as **Overall Coordinator** for a college cultural fest (150+ participants)
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: **joshwavsb@gmail.com**
 
 <br/>
 
@@ -72,14 +72,14 @@ End-to-end pipeline for detecting fraudulent transactions.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=gotham&icon_color=FFD700&title_color=FFD700&text_color=c9c9c9&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=gotham&title_color=FFD700&text_color=c9c9c9&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=gotham&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true" />
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:7C3AED&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:FFD700,100:B8860B&height=120&section=footer" />
