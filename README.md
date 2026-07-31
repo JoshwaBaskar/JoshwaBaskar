@@ -1,29 +1,36 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:FFD700,100:B8860B&height=220&section=header&text=Hi%20There,%20I'm%20Joshwa%20B%20👋&fontSize=42&fontColor=050816&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
-<p align="center">
+<table>
+<tr>
+<td width="220" align="center">
   <img src="./assets/profile.png" width="180" style="border-radius:50%;" />
+</td>
+<td valign="middle">
+
+### 👋 Professionally, I'm...
+
+An **AIML Engineering student** who builds full-stack applications and AI-powered tools end to end — from model to deployed product. Comfortable across **Spring Boot, React, REST API design, and ML pipelines**, currently sharpening DSA and system-design skills while seeking a **Software Developer** role.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=D4AF37&center=false&vCenter=true&width=450&lines=Final-Year+AIML+Student;Full-Stack+Developer;Building+AI-Powered+Products;Open+to+SDE+Opportunities" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Final-Year+AIML+Student;Full-Stack+Developer;Building+AI-Powered+Products;Open+to+SDE+Opportunities" alt="Typing SVG" />
-</p>
+<a href="https://www.linkedin.com/in/joshwa-b-322967291/"><img src="https://img.shields.io/badge/LinkedIn-B8860B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joshwavsb@gmail.com"><img src="https://img.shields.io/badge/Email-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/JoshwaBaskar"><img src="https://img.shields.io/badge/GitHub-B8860B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joshwa-b-322967291/"><img src="https://img.shields.io/badge/LinkedIn-B8860B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joshwavsb@gmail.com"><img src="https://img.shields.io/badge/Email-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JoshwaBaskar"><img src="https://img.shields.io/badge/GitHub-B8860B?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🎯 About Me
+### 🎯 Quick Facts
 
-- 🎓 Final-year **B.E. Artificial Intelligence & Machine Learning** student at VSB Engineering College, Karur (2023–2027)
-- 💻 Full-stack development enthusiast — **Spring Boot, React, REST APIs** — with a strong grip on DSA
+- 🎓 B.E. AIML @ VSB Engineering College, Karur (2023–2027)
 - 🤖 Builder of AI-powered tools: **HireSense AI**, **Fraud Detection System**
-- 💼 Seeking a **Software Developer** role to apply production-grade REST API design and problem-solving skills
 - 📍 Based in Kovilpatti, Tamil Nadu, India
-- 📫 Reach me at: **joshwavsb@gmail.com**
+- 📫 **joshwavsb@gmail.com**
 
 <br/>
 
