@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="220" align="center">
-  <img src="./assets/profile.png" width="180" style="border-radius:50%;" />
+  <img src="./profile.png" width="180" style="border-radius:50%;" />
 </td>
 <td valign="middle">
 
